@@ -1,0 +1,4 @@
+cnn/.vscode
+cnn/dataset/testing_set
+cnn/dataset/training_set
+api/migrations
